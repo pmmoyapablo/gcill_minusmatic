@@ -1,0 +1,21 @@
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Carga RIF.exe.config
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Carga RIF.exe
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Carga RIF.pdb
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\obj\Debug\Carga RIF.csprojAssemblyReference.cache
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\obj\Debug\Carga_RIF.Form1.resources
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\obj\Debug\Carga_RIF.Properties.Resources.resources
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\obj\Debug\Carga RIF.csproj.GenerateResource.cache
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\obj\Debug\Carga RIF.csproj.CoreCompileInputs.cache
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\obj\Debug\Carga RIF.csproj.CopyComplete
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\obj\Debug\Carga RIF.exe
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\obj\Debug\Carga RIF.pdb
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Google.Protobuf.dll
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\MySql.Data.dll
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Renci.SshNet.dll
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Google.Protobuf.xml
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\MySql.Data.xml
+C:\Users\pmoya\source\repos\Carga RIF\Carga RIF\bin\Debug\Renci.SshNet.xml
